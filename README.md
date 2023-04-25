@@ -1,10 +1,9 @@
-##Introduction
+Introduction
 
 This is a solution to the problem set stated [here](https://github.com/RiskThinking/work-samples/blob/main/UI-UX-Developer.md)
 
 This is a NextJS application that visualizes risk data using various charts and graphs. The application includes multiple pages, including a dashboard, a map view, and a data table view. The application uses the following technologies:
 ```
-bash
     NextJS: A framework for building server-side rendered React applications.
     React: A JavaScript library for building user interfaces.
     Chart.js: A JavaScript library for creating charts and graphs.
@@ -16,7 +15,6 @@ Getting Started
 
 To run this application locally, you will need Node.js and npm installed on your computer. Once you have installed Node.js and npm, follow these steps:
 ```
-bash
     Clone the repository to your local machine.
     Open a terminal window and navigate to the root directory of the repository.
     Run the command npm install to install the dependencies.
